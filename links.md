@@ -16,5 +16,5 @@ A longer introductory video compared to the one listed above. It provides a bett
 A study guide to accompany the Operating Systems Concepts book (10th ed) by Silberschatz, Galvin and Gagne. It provides concise key words and comes in handy for remembering key concepts.
 
 ### 2. [Bash Scripting Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
-Since shell-scripting is one of the most important concepts for process automation, a clear basic regarding bash scripting is needed. This link provides easy to understand explanation about bash scripting. It's worth noting that the content is easy to digest for beginners.
+Since shell-scripting is one of the most important concepts for process automation, a clear basic understanding regarding bash scripting is needed. This link provides easy to understand explanation about bash scripting. It's worth noting that the content is easy to digest for beginners.
 
