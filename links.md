@@ -18,3 +18,9 @@ A study guide to accompany the Operating Systems Concepts book (10th ed) by Silb
 ### 2. [Bash Scripting Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 Since shell-scripting is one of the most important concepts for process automation, a clear basic understanding regarding bash scripting is needed. This link provides easy to understand explanation about bash scripting. It's worth noting that the content is easy to digest for beginners.
 
+## WEEK 03
+### 1. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://www.youtube.com/watch?v=_h30HBYxtws)
+A concise explanation of a few popular file systems. Only about 11 minutes long & provides a real example of why knowing the file system you're using is important. Good to watch after reading chapters 13, 14, and 15 of Operating System Concepts (10th Ed).
+
+### 2. [Nano Editor Commands](https://www.nano-editor.org/dist/latest/cheatsheet.html)
+After using vi, I would love to learn how to use other editors to help tweak my program. This link provides key shortcuts about nano editor that can be easily digested by beginners.
