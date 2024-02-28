@@ -23,4 +23,4 @@ Since shell-scripting is one of the most important concepts for process automati
 A concise explanation of a few popular file systems. Only about 11 minutes long & provides a real example of why knowing the file system you're using is important. Good to watch after reading chapters 13, 14, and 15 of Operating System Concepts (10th Ed).
 
 ### 2. [Nano Editor Commands](https://www.nano-editor.org/dist/latest/cheatsheet.html)
-After using vi, I would love to learn how to use other editors to help tweak my program. This link provides key shortcuts about nano editor that can be easily digested by beginners.
+After using vi, learning how to use other editors to help tweak my program proves to be beneficial, especially to add versatility while getting a wider knowledge about other editors. This link provides key shortcuts about nano editor that can be easily digested by beginners.
