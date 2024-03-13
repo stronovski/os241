@@ -24,3 +24,17 @@ A concise explanation of a few popular file systems. Only about 11 minutes long 
 
 ### 2. [Nano Editor Commands](https://www.nano-editor.org/dist/latest/cheatsheet.html)
 After using vi, learning how to use other editors to help tweak my program proves to be beneficial, especially to add versatility while getting a wider knowledge about other editors. This link provides key shortcuts about nano editor that can be easily digested by beginners.
+
+## WEEK 04
+### 1. [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s&feature=youtu.be)
+Short video explanation (with animation) about the differences between Segmented Memory and Paged Memory. Helpful in visualizing memory fragmentation and understanding what swapping out processes means.
+
+### 2. [Virtual Address Translation Example](https://www.youtube.com/watch?v=DkxqhOZ1OYo)
+Walkthrough of a problem example in virtual address to physical address translation. The video is only 8  minutes or so, explains the steps very thoroughly, and is easy to understand.
+
+## WEEK 05
+### 1. [Unix Processes in C](https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&pp=iAQB)
+A comprehensible playlist about the fork() function in C and other functions related to it. The first few videos are very relevant to the current week's class materials on fork.
+
+### 2. [sed.js](https://sed.js.org/index.html)
+Online GNU sed stream editor complete with I/O stream. Extremely useful to experiment with when first starting out with sed. Removes the hassle of having to open and create files to check how sed affects multiple test cases.
