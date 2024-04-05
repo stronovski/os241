@@ -38,3 +38,10 @@ A comprehensible playlist about the fork() function in C and other functions rel
 
 ### 2. [sed.js](https://sed.js.org/index.html)
 Online GNU sed stream editor complete with I/O stream. Extremely useful to experiment with when first starting out with sed. Removes the hassle of having to open and create files to check how sed affects multiple test cases.
+
+## WEEK 06
+### 1. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+Explains about virtual memory in operating system. Provides comprehensible explanation about virtual memory with visualization
+
+### 2. [AWK Command](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
+Provides basic explanation about AWK commands and explains what the commands are for in depth

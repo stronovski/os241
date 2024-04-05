@@ -63,3 +63,11 @@ ZCZC W05 30 L14 Assignment #04
 ZCZC W05 20 L15 Assignment #05
 ZCZC W05 25 L32 Watching OS-related videos
 ZCZC W05 5 L41 Fix and tweak mylog.txt
+
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 20 L03 GitHub related
+ZCZC W06 30 L01 SCELE/Discord related
+ZCZC W06 10 L05 QUIZ + reading materials
+ZCZC W06 100 L11 Assignment #06
+ZCZC W06 25 L32 Watching OS-related videos
+ZCZC W06 5 L41 Fix and tweak mylog.txt
