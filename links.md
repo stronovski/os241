@@ -45,3 +45,10 @@ Explains about virtual memory in operating system. Provides comprehensible expla
 
 ### 2. [AWK Command](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
 Provides basic explanation about AWK commands and explains what the commands are for in depth
+
+## WEEK 07
+### 1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)
+An article about process synchronization in operating systems. It is a technique to ensure that multiple processes access shared resources in a controlled manner to avoid race conditions
+
+### 2. [Introduction to Deadlocks](https://www.studytonight.com/operating-system/deadlocks)
+Deadlocks are a set of blocked processes each holding a resource and waiting to acquire a resource held by another process. The article also provides some knowledge on how to handle them as well.
