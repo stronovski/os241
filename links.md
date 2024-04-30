@@ -52,3 +52,9 @@ An article about process synchronization in operating systems. It is a technique
 
 ### 2. [Introduction to Deadlocks](https://www.studytonight.com/operating-system/deadlocks)
 Deadlocks are a set of blocked processes each holding a resource and waiting to acquire a resource held by another process. The article also provides some knowledge on how to handle them as well.
+
+## WEEK 08
+### 1. [Scheduling](https://applied-programming.github.io/Operating-Systems-Notes/4-Scheduling/)
+This source gives a good overview on scheduling. It’s basically like a cheatsheet for the concepts, not too detail but just enough to explain the different types of CPU schedling.
+                                                                             ### 2. [FCFS(First Come First Serve) CPU Scheduling Algorithm with example | Operating System](https://www.youtube.com/watch?v=WYo1SpUh9FI)
+FCFS is one way CPUs handle scheduling. The video simply explains the concept and is a great help in understanding the concept better.
