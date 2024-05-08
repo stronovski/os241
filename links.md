@@ -56,5 +56,13 @@ Deadlocks are a set of blocked processes each holding a resource and waiting to 
 ## WEEK 08
 ### 1. [Scheduling](https://applied-programming.github.io/Operating-Systems-Notes/4-Scheduling/)
 This source gives a good overview on scheduling. It’s basically like a cheatsheet for the concepts, not too detail but just enough to explain the different types of CPU schedling.
-                                                                             ### 2. [FCFS(First Come First Serve) CPU Scheduling Algorithm with example | Operating System](https://www.youtube.com/watch?v=WYo1SpUh9FI)
+                                                                             
+### 2. [FCFS(First Come First Serve) CPU Scheduling Algorithm with example | Operating System](https://www.youtube.com/watch?v=WYo1SpUh9FI)
 FCFS is one way CPUs handle scheduling. The video simply explains the concept and is a great help in understanding the concept better.
+
+## WEEK 09
+### 1. [GRUB](https://www.tutorialspoint.com/what-is-grub-in-linux)
+The GRUB (Grand Unified Bootloader) is a bootloader available from the GNU project.. more
+
+### 2. [Linux Boot Process](https://www.youtube.com/watch?v=mHB0Z-HUauo)
+A brief explanation about linux boot process to help you understand the basic.
